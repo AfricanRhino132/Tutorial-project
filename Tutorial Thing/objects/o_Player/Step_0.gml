@@ -10,6 +10,7 @@ hsp = move * walksp;
 
 vsp += grv;
 
+//HEY RYAN
 if (place_meeting(x, y + 1, o_Wall)) and (key_jump)
 {
 	vsp = -7;
