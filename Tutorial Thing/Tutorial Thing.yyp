@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "56e425ec-5575-470a-9885-6ea6e68d8d59",
+            "Value": {
+                "id": "dc7c64a2-c106-49da-8cc1-44e924a896b7",
+                "resourcePath": "objects\\o_GameEngine\\o_GameEngine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5b7003f2-1fbf-49b8-83f6-9aa9950384f9",
             "Value": {
                 "id": "d388bf26-0600-45e9-a4e2-e0bf75dca318",
@@ -103,11 +111,27 @@
             }
         },
         {
+            "Key": "6960a614-b843-4043-84a5-0d79d79c0ded",
+            "Value": {
+                "id": "0b372d4a-88e4-4e97-bbd5-40f58846d870",
+                "resourcePath": "sprites\\s_Bullet\\s_Bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69679dd0-877a-49d4-be0a-1d5388a2c420",
             "Value": {
                 "id": "f123efd6-af44-4b88-9674-344a2873bbdb",
                 "resourcePath": "views\\69679dd0-877a-49d4-be0a-1d5388a2c420.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7014ac80-39de-4b91-8a8f-cfbbc2102c16",
+            "Value": {
+                "id": "222fa775-03b3-449b-b06f-f588c695fcc7",
+                "resourcePath": "objects\\o_Bullet\\o_Bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "f0038424-4ea1-4758-a8fb-0f476b5881a1",
                 "resourcePath": "views\\92101b7d-35bf-458e-a167-d39d141f8515.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ae62580-d7f9-449a-83f5-026200ac21d6",
+            "Value": {
+                "id": "eda1a43f-64db-4e07-8a3b-3c462482eb8b",
+                "resourcePath": "objects\\o_Collision\\o_Collision.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -2,9 +2,9 @@ vsp += grv
 
 if o_Player.x > x
 {
-	if (place_meeting(x + walksp, y, o_Wall))
+	if (place_meeting(x + walksp, y, o_Collision))
 	{
-		while (!place_meeting(x + 1, y, o_Wall))
+		while (!place_meeting(x + 1, y, o_Collision))
 		{
 			x += 1
 		}
@@ -20,9 +20,9 @@ if o_Player.x > x
 }
 else 
 {
-	if (place_meeting(x - walksp , y, o_Wall))
+	if (place_meeting(x - walksp , y, o_Collision))
 	{
-		while (!place_meeting(x - 1, y, o_Wall))
+		while (!place_meeting(x - 1, y, o_Collision))
 		{
 			x -= 1
 		}
@@ -38,10 +38,16 @@ else
 	}
 }
 
+if HP <= 0 {
+	instance_destroy()
+	
+}
 
-if (place_meeting(x , y + vsp, o_Wall))
+
+
+if (place_meeting(x , y + vsp, o_Collision))
 {
-	while (!place_meeting(x, y + sign(vsp), o_Wall))
+	while (!place_meeting(x, y + sign(vsp), o_Collision))
 	{
 		y += sign(vsp)
 	}
