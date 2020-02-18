@@ -1,2 +1,2 @@
-other.HP -= 10
+other.HP -= o_Player.atk
 instance_destroy()

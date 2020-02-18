@@ -6,3 +6,4 @@ walksp = 4;
 HP = 20 
 invin = false
 invintimer = 60
+atk = 1

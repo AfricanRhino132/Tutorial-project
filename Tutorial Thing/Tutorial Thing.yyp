@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "10319bad-72d5-447e-be0b-a77a0f7c5583",
+            "Value": {
+                "id": "ebd48945-5ae7-4d01-bdb8-9739e80b86ee",
+                "resourcePath": "objects\\o_Sword\\o_Sword.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2bd87ad2-1914-4647-91fb-2c64537f8086",
             "Value": {
                 "id": "a1286c05-c0b0-4d9d-854a-f2677ded9b6a",
@@ -100,6 +108,14 @@
                 "id": "dc7c64a2-c106-49da-8cc1-44e924a896b7",
                 "resourcePath": "objects\\o_GameEngine\\o_GameEngine.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "577c0778-5fc0-4736-bace-fc71b1da317a",
+            "Value": {
+                "id": "4842dd2d-d14a-463b-9236-e9600267a0c5",
+                "resourcePath": "sprites\\s_Sword\\s_Sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "63f42195-8ba5-44fe-822f-1b7cca6bb0f1",
                 "resourcePath": "objects\\o_Wall\\o_Wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be7a6392-816f-4e0d-b09d-a10fd5e9d049",
+            "Value": {
+                "id": "090b8ae6-068e-4cb7-b317-f1154ce1c02f",
+                "resourcePath": "scripts\\print\\print.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -288,7 +312,7 @@
         }
     ],
     "script_order": [
-        
+        "be7a6392-816f-4e0d-b09d-a10fd5e9d049"
     ],
     "tutorial": ""
 }
