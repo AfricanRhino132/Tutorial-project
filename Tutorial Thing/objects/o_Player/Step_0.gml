@@ -6,9 +6,9 @@ key_shift = keyboard_check(vk_shift);
 click = mouse_check_button_pressed(mb_left)
 click2 = mouse_check_button(mb_right)
 
-//if HP <= 0 {
-	//instance_destroy()
-//}
+if HP <= 0 {
+	instance_destroy()
+}
 
 if click {
 	var bullet = instance_create_layer(x,y,layer,o_Bullet)

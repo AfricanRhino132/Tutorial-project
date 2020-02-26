@@ -1,6 +1,7 @@
 vsp += grv
-
-if o_Player.x > x
+if instance_exists(o_Player)
+{
+	if o_Player.x > x
 {
 	if (place_meeting(x + walksp, y, o_Collision))
 	{
@@ -56,3 +57,4 @@ if (place_meeting(x , y + vsp, o_Collision))
 	
 }
 y += vsp;
+}
