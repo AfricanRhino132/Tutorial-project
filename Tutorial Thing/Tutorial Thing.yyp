@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0d721294-0300-4a17-8c2a-0b6795ed430e",
+            "Value": {
+                "id": "773eb510-c12d-4b72-9610-be9de1057884",
+                "resourcePath": "objects\\o_Shop\\o_Shop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10319bad-72d5-447e-be0b-a77a0f7c5583",
             "Value": {
                 "id": "ebd48945-5ae7-4d01-bdb8-9739e80b86ee",
@@ -90,7 +98,7 @@
             "Key": "3ee0ee2f-7a3f-4622-9d30-694c45ad28cd",
             "Value": {
                 "id": "9c7ca287-d25e-4480-964a-90163eac2a40",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_battle\\rm_battle.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -100,6 +108,14 @@
                 "id": "c2eec077-b198-45d1-b473-171fa839545d",
                 "resourcePath": "views\\46ff2ee9-4b64-4b06-ac73-b345a2628291.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a1c053c-e4db-4da9-a925-d9b490145780",
+            "Value": {
+                "id": "3a733215-0deb-4686-897a-ca7c2c052222",
+                "resourcePath": "rooms\\rm_shop\\rm_shop.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "7cc0c479-1701-4a4c-b244-d691766cfd8e",
+            "Value": {
+                "id": "f5de1273-8f82-4cd1-b80b-e36ff69bfbfc",
+                "resourcePath": "fonts\\font\\font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "81506848-8887-44ee-a57b-ffd0e59b81a4",
             "Value": {
                 "id": "7402590d-e2a0-41ef-9e3a-8145ff995e56",
@@ -203,6 +227,14 @@
             "Value": {
                 "id": "63f42195-8ba5-44fe-822f-1b7cca6bb0f1",
                 "resourcePath": "objects\\o_Wall\\o_Wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aef013eb-5422-4e34-98cf-b7a036309a1f",
+            "Value": {
+                "id": "6a080b7d-4477-46d3-8f27-19693ddd1235",
+                "resourcePath": "objects\\o_Inventory\\o_Inventory.yy",
                 "resourceType": "GMObject"
             }
         },

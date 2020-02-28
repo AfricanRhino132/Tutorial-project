@@ -46,7 +46,7 @@ vsp += grv;
 //HEY RYAN
 if (place_meeting(x, y + 1, o_Collision)) and (key_jump)
 {
-	vsp = -14;
+	vsp = -8;
 }
 
 //horizontal collision

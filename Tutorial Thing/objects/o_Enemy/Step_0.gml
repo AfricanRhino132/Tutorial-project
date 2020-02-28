@@ -41,6 +41,8 @@ else
 
 if HP <= 0 {
 	instance_destroy()
+	o_GameEngine.currency += gold
+	o_GameEngine.killed += 1
 	
 }
 
@@ -57,4 +59,8 @@ if (place_meeting(x , y + vsp, o_Collision))
 	
 }
 y += vsp;
+}
+
+if o_GameEngine.wave_done = true {
+	instance_destroy()
 }
