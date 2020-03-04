@@ -1,4 +1,4 @@
-respawn = 60
+respawn = 300
 spawns = 10
 wave = 1
 shop = false

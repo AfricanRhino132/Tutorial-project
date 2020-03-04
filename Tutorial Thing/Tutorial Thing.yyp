@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "10e6827c-65c2-4ccb-b187-1fac10e3d1d6",
+            "Value": {
+                "id": "8345b791-ec93-47af-8da6-a635cb34862d",
+                "resourcePath": "sprites\\s_Potion\\s_Potion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2bd87ad2-1914-4647-91fb-2c64537f8086",
             "Value": {
                 "id": "a1286c05-c0b0-4d9d-854a-f2677ded9b6a",
